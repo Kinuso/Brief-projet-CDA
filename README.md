@@ -7,9 +7,9 @@ Check the current weather on any city on the planet. Switch between metric and i
 
 ## Features
 
-1. Changez dans le env.local les variables d'environnements "CITY" et "LANGUAGE" pour l'adapter a votre position dans le   globe
+1. Ville et Pays
 
-2. Température et humiditer
+2. Température, ressenti et humiditer
 
 4. Vitesse du vent et direction
 
