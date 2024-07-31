@@ -9,7 +9,7 @@ Check the current weather on any city on the planet. Switch between metric and i
 
 1. Ville et Pays
 
-2. Température, ressenti et humiditer
+2. Température, ressenti et humidité
 
 4. Vitesse du vent et direction
 
