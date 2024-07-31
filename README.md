@@ -1,47 +1,30 @@
-# Weather App
+# Application Meteo Simplon
 
+Application d'affichage de météo.
 Check the current weather on any city on the planet. Switch between metric and imperial units.
 
 ![alt text](image.png)
 
 ## Features
 
-1. User's ability to search cities
+1. Changez dans le env.local les variables d'environnements "CITY" et "LANGUAGE" pour l'adapter a votre position dans le   globe
 
-2. Current local time and date
+2. Température et humiditer
 
-3. Temperatures and humidity
+4. Vitesse du vent et direction
 
-4. Wind speed and direction
+5. Lever/coucher du soleil
 
-5. Sunrise and sunset times
-
-6. Metric vs Imperial system
-
-7. Error handling and loading info
+6. Gestion des erreurs et chargement des info
 
 ## Installation
 
-1. `git clone https://github.com/madzadev/weather-app.git`
+1. `git clone https://github.com/Kinuso/Brief-projet-CDA`
 
-2. `cd weather-app`
+2. `cd Brief-projet-CDA`
 
 3. `npm install`
 
-4. Log-in to [Openweathermap.com](https://openweathermap.org/)
+4. `Créer le .env.local en suivant les instructions du .env.exemple`
 
-5. Create an API key
-
-6. `cp .env.example .env.local`
-
-7. Paste API key for `OPENWEATHER_API_KEY`
-
-8. `npm run dev`
-
-## Contributions
-
-Any feature requests and pull requests are welcome!
-
-## License
-
-The project is under [MIT license](https://choosealicense.com/licenses/mit/).
+5. `npm run dev`
