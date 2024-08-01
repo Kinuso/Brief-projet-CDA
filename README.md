@@ -1,7 +1,6 @@
 # Application Meteo Simplon
 
 Application d'affichage de météo.
-Check the current weather on any city on the planet. Switch between metric and imperial units.
 
 ![alt text](image.png)
 
@@ -11,11 +10,11 @@ Check the current weather on any city on the planet. Switch between metric and i
 
 2. Température, ressenti et humidité
 
-4. Vitesse du vent et direction
+3. Vitesse du vent et direction
 
-5. Lever/coucher du soleil
+4. Lever/coucher du soleil
 
-6. Gestion des erreurs et chargement des info
+5. Gestion des erreurs et chargement des info
 
 ## Installation
 
