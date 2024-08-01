@@ -1,7 +1,5 @@
 # Application Meteo Simplon
 
-Application d'affichage de météo.
-
 ![alt text](image.png)
 
 ## Features
