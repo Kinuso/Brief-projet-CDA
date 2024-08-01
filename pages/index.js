@@ -14,13 +14,10 @@ export const App = () => {
   const [city, setCity] = useState();
 
   useEffect(() => {
+
     getData().finally(() => {});
 
-    const refreshWeather = setInterval(() => {
-      getData();
-    }, 60 * 60 * 1000);
-
-  }, []);
+  }, 60 * 60 * 1000);
 
 
   const getData = async () => {
